@@ -4,6 +4,7 @@
   "version": "1.0.0",
   "description": "calculator using inquirer, chalk and switch case.",
   "main": "index.js",
+  "bin": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
